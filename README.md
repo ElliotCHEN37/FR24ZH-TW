@@ -1,2 +1,4 @@
 # FR24ZH-TW
-unofficial zh-TW trans for iOS/iPadOS FR24
+下載後直接覆寫原本zh-Hans資料夾裡的內容即可
+
+該項目使用了Notepad++, Filza與winBin2Localization.py

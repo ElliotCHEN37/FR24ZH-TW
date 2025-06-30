@@ -1,0 +1,18 @@
+/* Class = "UIButton"; normalTitle = "Log out"; ObjectID = "4Zt-Zq-IjA"; */
+"4Zt-Zq-IjA.normalTitle" = "登出";
+
+/* Class = "UILabel"; text = "My account"; ObjectID = "C0C-mD-KUj"; */
+"C0C-mD-KUj.text" = "我的帳戶";
+
+/* Class = "UIButton"; normalTitle = "Create account"; ObjectID = "hIe-L5-RJb"; */
+"hIe-L5-RJb.normalTitle" = "建立帳號";
+
+/* Class = "UIButton"; normalTitle = "Change password"; ObjectID = "HJr-y4-z9Z"; */
+"HJr-y4-z9Z.normalTitle" = "更改密碼";
+
+/* Class = "UILabel"; text = "SUBSCRIPTION PLAN"; ObjectID = "QHb-ku-nii"; */
+"QHb-ku-nii.text" = "訂閱方案";
+
+/* Class = "UILabel"; text = "EMAIL"; ObjectID = "vIV-hZ-FNa"; */
+"vIV-hZ-FNa.text" = "電子郵件";
+

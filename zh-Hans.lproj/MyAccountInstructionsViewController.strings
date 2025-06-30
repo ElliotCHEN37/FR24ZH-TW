@@ -1,0 +1,6 @@
+/* Class = "UILabel"; text = "Your subscription was purchased through iTunes. Please refer to iTunes to view billing details:"; ObjectID = "2nc-XB-lpD"; */
+"2nc-XB-lpD.text" = "您的訂閱是透過 iTunes 購買的。請參考 iTunes 查看帳單細節:";
+
+/* Class = "UILabel"; text = "Billing details"; ObjectID = "bpS-y1-Lmd"; */
+"bpS-y1-Lmd.text" = "帳單細節";
+

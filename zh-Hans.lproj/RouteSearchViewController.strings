@@ -1,0 +1,12 @@
+/* Class = "UITextField"; placeholder = "Departure airport"; ObjectID = "iQO-ks-cUZ"; */
+"iQO-ks-cUZ.placeholder" = "出發機場";
+
+/* Class = "UITextField"; placeholder = "Arrival airport"; ObjectID = "ncl-SJ-mVO"; */
+"ncl-SJ-mVO.placeholder" = "到達機場";
+
+/* Class = "UIButton"; normalTitle = "Search"; ObjectID = "prW-yY-ER6"; */
+"prW-yY-ER6.normalTitle" = "搜尋";
+
+/* Class = "UILabel"; text = "Search by city, airport name, IATA or ICAO code."; ObjectID = "rjw-tp-CLi"; */
+"rjw-tp-CLi.text" = "依城市、機場名稱、IATA 或 ICAO 代碼搜尋。";
+

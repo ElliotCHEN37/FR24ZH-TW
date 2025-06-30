@@ -1,0 +1,6 @@
+/* Class = "UILabel"; text = "AVERAGE DELAY"; ObjectID = "hu6-vj-mmE"; */
+"hu6-vj-mmE.text" = "平均延遲時間";
+
+/* Class = "UILabel"; text = "DISRUPTION INDEX"; ObjectID = "HV6-rd-ble"; */
+"HV6-rd-ble.text" = "中斷指數";
+

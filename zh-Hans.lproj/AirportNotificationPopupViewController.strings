@@ -1,0 +1,12 @@
+/* Class = "UILabel"; text = "Stay up to date on the flights that matter to you with Flightradar24."; ObjectID = "7IG-iR-Vfa"; */
+"7IG-iR-Vfa.text" = "使用 Flightradar24 掌握與您相關航班的最新資訊。";
+
+/* Class = "UIButton"; normalTitle = "Update my notification settings"; ObjectID = "ELz-lZ-u3b"; */
+"ELz-lZ-u3b.normalTitle" = "更新我的通知設定";
+
+/* Class = "UIButton"; normalTitle = "Ok, got it"; ObjectID = "KcU-bL-5Tv"; */
+"KcU-bL-5Tv.normalTitle" = "好的，知道了";
+
+/* Class = "UILabel"; text = "To stop receiving a notification when you visit an airport, please update your airport notification preferences under Alerts."; ObjectID = "Nje-Cy-xbE"; */
+"Nje-Cy-xbE.text" = "想要在造訪機場時停止接到通知，請在提醒下更新您的通知偏好。";
+

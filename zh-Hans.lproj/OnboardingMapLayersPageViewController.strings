@@ -1,0 +1,12 @@
+/* Class = "UILabel"; text = "Precipitation layers"; ObjectID = "ayK-kp-Ka9"; */
+"ayK-kp-Ka9.text" = "降水層";
+
+/* Class = "UILabel"; text = "Aeronautical charts"; ObjectID = "Ngc-GS-jLK"; */
+"Ngc-GS-jLK.text" = "航空圖";
+
+/* Class = "UILabel"; text = "Cloud layer"; ObjectID = "R8d-xx-Q7M"; */
+"R8d-xx-Q7M.text" = "雲層";
+
+/* Class = "UILabel"; text = "Oceanic tracks"; ObjectID = "XxS-Fo-Wdc"; */
+"XxS-Fo-Wdc.text" = "洋區航路";
+

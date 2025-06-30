@@ -1,0 +1,9 @@
+/* Class = "UILabel"; text = "RUNWAY"; ObjectID = "p9g-FN-9WN"; */
+"p9g-FN-9WN.text" = "跑道";
+
+/* Class = "UILabel"; text = "SURFACE"; ObjectID = "rpP-EY-EJG"; */
+"rpP-EY-EJG.text" = "表面";
+
+/* Class = "UILabel"; text = "LENGTH (m/ft)"; ObjectID = "wkX-xX-hsT"; */
+"wkX-xX-hsT.text" = "長度（公尺/英尺）";
+

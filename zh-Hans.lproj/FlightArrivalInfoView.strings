@@ -1,0 +1,12 @@
+/* Class = "UILabel"; text = "TERMINAL"; ObjectID = "Ag3-vV-28G"; */
+"Ag3-vV-28G.text" = "航廈";
+
+/* Class = "UILabel"; text = "GATE"; ObjectID = "k3S-vI-Dgo"; */
+"k3S-vI-Dgo.text" = "登機口";
+
+/* Class = "UILabel"; text = "ARRIVAL INFORMATION"; ObjectID = "Mbi-Zw-d04"; */
+"Mbi-Zw-d04.text" = "航班抵達資訊";
+
+/* Class = "UILabel"; text = "BAGGAGE BELT"; ObjectID = "ykw-tT-30U"; */
+"ykw-tT-30U.text" = "行李帶";
+

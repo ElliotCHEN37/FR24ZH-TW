@@ -1,0 +1,9 @@
+/* Class = "UILabel"; text = "LANDED"; ObjectID = "0ST-kc-DBp"; */
+"0ST-kc-DBp.text" = "已降落";
+
+/* Class = "UILabel"; text = "AIRCRAFT"; ObjectID = "Swv-2M-Oee"; */
+"Swv-2M-Oee.text" = "飛機";
+
+/* Class = "UILabel"; text = "AIRLINE"; ObjectID = "tLF-Zd-W1H"; */
+"tLF-Zd-W1H.text" = "航空公司";
+

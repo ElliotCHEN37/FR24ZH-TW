@@ -1,0 +1,9 @@
+/* Class = "UILabel"; text = "Upgrade to Silver or Gold at anytime."; ObjectID = "CXL-lw-NGl"; */
+"CXL-lw-NGl.text" = "隨時可以升級為 Silver 或 Gold。";
+
+/* Class = "UIButton"; normalTitle = "Continue with Basic"; ObjectID = "THQ-Uj-zFC"; */
+"THQ-Uj-zFC.normalTitle" = "以 Basic 繼續";
+
+/* Class = "UILabel"; text = "You're currently enjoying Flightradar24 free."; ObjectID = "wwc-iR-29g"; */
+"wwc-iR-29g.text" = "您正在享受Flightradar24 免費服務。";
+

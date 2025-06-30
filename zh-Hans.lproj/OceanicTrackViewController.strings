@@ -1,0 +1,15 @@
+/* Class = "UILabel"; text = "Track"; ObjectID = "bIH-0w-6Mp"; Note = "Oceanic track - screen title"; */
+"bIH-0w-6Mp.text" = "追蹤";
+
+/* Class = "UILabel"; text = "FROM"; ObjectID = "nZd-es-zET"; Note = "Oceanic track valid from - cell header"; */
+"nZd-es-zET.text" = "從";
+
+/* Class = "UILabel"; text = "POINTS"; ObjectID = "Ozd-Ds-oS7"; Note = "Oceanic track point names - cell header"; */
+"Ozd-Ds-oS7.text" = "點數";
+
+/* Class = "UILabel"; text = "DIRECTION"; ObjectID = "Vrg-qD-wv2"; Note = "Oceanic track direction - cell header"; */
+"Vrg-qD-wv2.text" = "方向";
+
+/* Class = "UILabel"; text = "UNTIL"; ObjectID = "wqW-yw-OKX"; Note = "Oceanic track valid until - cell header"; */
+"wqW-yw-OKX.text" = "至";
+

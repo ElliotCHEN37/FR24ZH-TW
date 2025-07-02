@@ -1,0 +1,9 @@
+/* Class = "UILabel"; text = "Free: 7 days Silver: 30 days Gold: 180 days"; ObjectID = "0GZ-rc-RMz"; */
+"0GZ-rc-RMz.text" = "Free: 7天 Silver：30天 Gold:180天";
+
+/* Class = "UILabel"; text = "Available with upgrade"; ObjectID = "DlU-xK-qPR"; */
+"DlU-xK-qPR.text" = "可升級";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "wWh-V8-7iZ"; */
+"wWh-V8-7iZ.normalTitle" = "繼續";
+

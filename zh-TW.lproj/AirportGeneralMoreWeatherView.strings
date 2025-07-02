@@ -8,10 +8,10 @@
 "Fpy-ef-rRK.text" = "露點";
 
 /* Class = "UILabel"; text = "METAR is a format that airports use for reporting weather information to pilots."; ObjectID = "hxB-an-oyW"; */
-"hxB-an-oyW.text" = "METAR是機場用來向飛行員報告天氣資訊的一種格式。";
+"hxB-an-oyW.text" = "METAR是機場用來向飛行員報告天氣信息的一種格式。";
 
 /* Class = "UILabel"; text = "HUMIDITY"; ObjectID = "sfs-sZ-ehl"; */
-"sfs-sZ-ehl.text" = "濕度";
+"sfs-sZ-ehl.text" = "溼度";
 
 /* Class = "UILabel"; text = "SUNSET"; ObjectID = "Wyf-NY-Yk2"; */
 "Wyf-NY-Yk2.text" = "日落";

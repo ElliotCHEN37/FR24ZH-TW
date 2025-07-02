@@ -1,6 +1,6 @@
 /* Class = "UILabel"; text = "Please select one of the flights or airports from the list below"; ObjectID = "Efo-0A-ubS"; */
-"Efo-0A-ubS.text" = "請從下面的清單中選擇一個航班或機場";
+"Efo-0A-ubS.text" = "請從下面的列表中選擇一個航班或機場";
 
 /* Class = "UILabel"; text = "Multi-select is not currently available in the app"; ObjectID = "G0d-5I-TP4"; */
-"G0d-5I-TP4.text" = "多選目前在應用程式中不可用";
+"G0d-5I-TP4.text" = "多選目前在應用程序中不可用";
 

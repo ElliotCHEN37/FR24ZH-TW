@@ -1,5 +1,5 @@
 /* Class = "UILabel"; text = "or sign up with"; ObjectID = "CL9-C3-vbo"; */
-"CL9-C3-vbo.text" = "或透過以下方式註冊";
+"CL9-C3-vbo.text" = "或通過以下方式註冊";
 
 /* Class = "UIButton"; normalTitle = "Sign up with email"; ObjectID = "e4q-Ik-6Pn"; */
 "e4q-Ik-6Pn.normalTitle" = "用電子郵件註冊";
@@ -11,5 +11,5 @@
 "Wlq-iV-tZO.text" = "或用電子郵件";
 
 /* Class = "UIButton"; normalTitle = "Google"; ObjectID = "yD9-jp-pfn"; */
-"yD9-jp-pfn.normalTitle" = "Google";
+"yD9-jp-pfn.normalTitle" = "谷歌";
 

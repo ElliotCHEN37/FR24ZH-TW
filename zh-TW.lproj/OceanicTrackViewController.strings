@@ -5,7 +5,7 @@
 "nZd-es-zET.text" = "從";
 
 /* Class = "UILabel"; text = "POINTS"; ObjectID = "Ozd-Ds-oS7"; Note = "Oceanic track point names - cell header"; */
-"Ozd-Ds-oS7.text" = "點數";
+"Ozd-Ds-oS7.text" = "積分";
 
 /* Class = "UILabel"; text = "DIRECTION"; ObjectID = "Vrg-qD-wv2"; Note = "Oceanic track direction - cell header"; */
 "Vrg-qD-wv2.text" = "方向";

@@ -5,8 +5,8 @@
 "ncl-SJ-mVO.placeholder" = "到達機場";
 
 /* Class = "UIButton"; normalTitle = "Search"; ObjectID = "prW-yY-ER6"; */
-"prW-yY-ER6.normalTitle" = "搜尋";
+"prW-yY-ER6.normalTitle" = "搜索";
 
 /* Class = "UILabel"; text = "Search by city, airport name, IATA or ICAO code."; ObjectID = "rjw-tp-CLi"; */
-"rjw-tp-CLi.text" = "依城市、機場名稱、IATA 或 ICAO 代碼搜尋。";
+"rjw-tp-CLi.text" = "按城市、機場名稱、IATA 或 ICAO 代碼搜索。";
 

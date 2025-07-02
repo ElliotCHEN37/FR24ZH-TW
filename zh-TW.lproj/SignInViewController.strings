@@ -1,5 +1,5 @@
 /* Class = "UILabel"; text = "or log in with"; ObjectID = "0VY-ge-0Pw"; */
-"0VY-ge-0Pw.text" = "或以下方式登入";
+"0VY-ge-0Pw.text" = "或用以下方式登錄";
 
 /* Class = "UIButton"; normalTitle = "Facebook"; ObjectID = "bjK-Jh-8aw"; */
 "bjK-Jh-8aw.normalTitle" = "Facebook";
@@ -8,14 +8,14 @@
 "eDv-f9-pck.normalTitle" = "忘記密碼？";
 
 /* Class = "UILabel"; text = "or with email"; ObjectID = "mcD-Du-GnZ"; */
-"mcD-Du-GnZ.text" = "或使用電子郵件";
+"mcD-Du-GnZ.text" = "或用電子郵件";
 
 /* Class = "UIButton"; normalTitle = "Log in with email"; ObjectID = "N69-dT-T9z"; */
-"N69-dT-T9z.normalTitle" = "用郵箱登入";
+"N69-dT-T9z.normalTitle" = "用郵箱登錄";
 
 /* Class = "UILabel"; text = "Log In"; ObjectID = "Sh1-jA-iXT"; */
-"Sh1-jA-iXT.text" = "登入";
+"Sh1-jA-iXT.text" = "登錄";
 
 /* Class = "UIButton"; normalTitle = "Google"; ObjectID = "SMP-cb-xO4"; */
-"SMP-cb-xO4.normalTitle" = "Google";
+"SMP-cb-xO4.normalTitle" = "谷歌";
 

@@ -1,9 +1,0 @@
-/* Class = "UILabel"; text = "Get more from Flightradar24"; ObjectID = "1ze-f9-kxO"; */
-"1ze-f9-kxO.text" = "從 Flightradar24 取得更多資訊";
-
-/* Class = "UIButton"; normalTitle = "Already subscribed? Log in"; ObjectID = "SSb-Oq-gd7";​​ */
-"SSb-Oq-gd7.normalTitle" = "已經訂閱了嗎？請登入";
-
-/* Class = "UILabel"; text = "Upgrade today and get:"; ObjectID = "zax-US-tTg"; */
-"zax-US-tTg.text" = "今天升級並取得:";
-

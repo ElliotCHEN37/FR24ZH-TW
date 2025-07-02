@@ -1,0 +1,6 @@
+/* Class = "UITextField"; placeholder = "Filter name"; ObjectID = "oqS-6O-o43"; */
+"oqS-6O-o43.placeholder" = "篩選條件";
+
+/* Class = "UILabel"; text = "NAME"; ObjectID = "T71-vS-WdM"; */
+"T71-vS-WdM.text" = "姓名";
+
